@@ -3,7 +3,7 @@
 A Python project that compresses and reconstructs a grayscale image using Principal Component Analysis (PCA).
 
 ## Dataset
-- Use your own grayscale image named `- <a href="https://github.com/codingchapa/image-pca-reconstruction/blob/main/input.jpg"> input.jpg</a>` in the project folder.
+- Use your own grayscale image named - <a href="https://github.com/codingchapa/image-pca-reconstruction/blob/main/input.jpg"> input.jpg</a> in the project folder.
 
 ## Features
 

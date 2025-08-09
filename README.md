@@ -11,19 +11,21 @@ A Python project that compresses and reconstructs a grayscale image using Princi
 - Standardizes pixel data for PCA  
 - Applies PCA to reduce image data dimensions  
 - Reconstructs and shows the compressed image  
-- Displays original and reconstructed images side-by-side  
+- Displays original and reconstructed images side-by-side
+- <a href="https://github.com/codingchapa/image-pca-reconstruction/blob/main/main.py"> code</a>
 
 ## What It Shows
 
 - How PCA can reduce image size while keeping important details  
-- The effect of the number of PCA components on image quality  
+- The effect of the number of PCA components on image quality
 
 ## How It Works
 
 1. Load and preprocess the image  
 2. Apply PCA to reduce dimensions  
 3. Reconstruct the image from PCA data  
-4. Visualize original vs reconstructed images  
+4. Visualize original vs reconstructed images
+- <a href="https://github.com/codingchapa/image-pca-reconstruction/blob/main/pcaOutput.png"> Output</a>
 
 ## What I Learned
 
@@ -33,4 +35,4 @@ A Python project that compresses and reconstructs a grayscale image using Princi
 
 ---
 
-*Created by [Your Name]*
+*Created by Emilio Chapa*
